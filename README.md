@@ -2,6 +2,8 @@
 
 ## Calculadora
 
--[calculadora HTML](desafiocalculadora/calculadora.html)
+[Calculadora HTML](desafiocalculadora/calculadora.html)
 
--[style CSS](style.css)
+[Style CSS](style.css)
+
+[Calculadora JS](calculadora.js)
